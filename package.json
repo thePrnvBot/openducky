@@ -1,7 +1,7 @@
 {
   "name": "openducky",
   "version": "1.0.0",
-  "description": "Rubber duck debugging quiz plugin for Opencode",
+  "description": "Rubber duck debugging quiz plugin for OpenCode",
   "main": "./index.ts",
   "type": "module",
   "files": [
@@ -20,13 +20,12 @@
     "type": "git",
     "url": "https://github.com/thePrnvBot/openducky"
   },
-  "devDependencies": {
-    "@types/bun": "latest"
-  },
   "peerDependencies": {
-    "typescript": "^5"
+    "@opencode-ai/plugin": ">=1.0.0"
   },
-  "dependencies": {
-    "@opencode-ai/plugin": "^1.1.53"
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@opencode-ai/plugin": "^1.1.53",
+    "typescript": "^5"
   }
 }
