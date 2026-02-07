@@ -4,14 +4,13 @@
   "workspaces": {
     "": {
       "name": "openducky",
-      "dependencies": {
-        "@opencode-ai/plugin": "^1.1.53",
-      },
       "devDependencies": {
+        "@opencode-ai/plugin": "^1.1.53",
         "@types/bun": "latest",
+        "typescript": "^5",
       },
       "peerDependencies": {
-        "typescript": "^5",
+        "@opencode-ai/plugin": ">=1.0.0",
       },
     },
   },
