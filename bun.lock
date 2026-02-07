@@ -6,8 +6,9 @@
       "name": "openducky",
       "devDependencies": {
         "@opencode-ai/plugin": "^1.1.53",
-        "@types/bun": "latest",
-        "typescript": "^5",
+        "@types/bun": "^1.3.8",
+        "@types/node": "^25.2.1",
+        "typescript": "^5.9.3",
       },
       "peerDependencies": {
         "@opencode-ai/plugin": ">=1.0.0",
