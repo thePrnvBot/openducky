@@ -4,6 +4,15 @@ Rubber duck debugging quiz plugin for [OpenCode](https://opencode.ai).
 
 Test your understanding of code through interactive quizzes - the AI reads a file and quizzes you on it, one question at a time.
 
+<div align="center">
+<img width="400" height="315" alt="image" src="https://github.com/user-attachments/assets/2022963c-7540-40d4-8005-d70b33ea6987" />
+<br/>
+<img width="400" height="166" alt="image" src="https://github.com/user-attachments/assets/0e41f66a-aca5-418b-9067-950edec25353" />
+<br/>
+<img width="400" height="346" alt="image" src="https://github.com/user-attachments/assets/f13039bd-c47c-4d75-b160-afc5b0b43e23" />
+<br/>
+</div>
+
 ## Installation
 
 Add to your `opencode.json`:
