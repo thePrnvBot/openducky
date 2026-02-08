@@ -1,4 +1,7 @@
-# openducky
+# openducky 
+![npm downloads](https://img.shields.io/npm/dw/openducky)
+![npm](https://img.shields.io/npm/v/openducky)
+
 
 Rubber duck debugging quiz plugin for [OpenCode](https://opencode.ai).
 
